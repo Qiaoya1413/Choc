@@ -5,7 +5,7 @@ DOMAIN-SUFFIX,emby.wtf,Emby-Proxy
 #Misty
 DOMAIN-SUFFIX,aaa.ax,Emby-Proxy
 #蓝海
-DOMAIN-SUFFIX,blueseacdn.com,Emby-Proxy
+#DOMAIN-SUFFIX,blueseacdn.com,Emby-Proxy
 #peach
 DOMAIN-SUFFIX,embymv.tk,Emby-Proxy
 #lsemby
@@ -26,7 +26,5 @@ DOMAIN-SUFFIX,52.al,Emby-Proxy
 DOMAIN-SUFFIX,emby.today,Emby-Proxy
 #白嫖王
 DOMAIN-SUFFIX,ywang.cf,Emby-Proxy
-#cc
-DOMAIN-SUFFIX,jiasu.ga,Emby-Proxy
 #misakaf
 #DOMAIN-SUFFIX,misakaf.org,Emby-Proxy
