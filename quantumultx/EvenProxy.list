@@ -5,11 +5,11 @@ HOST-SUFFIX,emby.wtf,Emby-Proxy
 #Misty
 HOST-SUFFIX,aaa.ax,Emby-Proxy
 #蓝海
-HOST-SUFFIX,blueseacdn.com,Emby-Proxy
+#HOST-SUFFIX,blueseacdn.com,Emby-Proxy
 #peach
 HOST-SUFFIX,embymv.tk,Emby-Proxy
 #lsemby
-HOST-SUFFIX,emby.ml,Emby-Proxy
+HOST-SUFFIX,cf.emby.ml,Emby-Proxy
 #佛系
 HOST-SUFFIX,4545.cf,Emby-Proxy
 #neko
@@ -21,12 +21,10 @@ HOST-SUFFIX,cu.poloemby.xyz,Emby-Proxy
 #404
 HOST-SUFFIX,404.sb,Emby-Proxy
 #orange
-HOST-SUFFIX,52.al,Emby-Proxy
+HOST-SUFFIX,embytv.cf,Emby-Proxy
 #today
 HOST-SUFFIX,emby.today,Emby-Proxy
 #白嫖王
 HOST-SUFFIX,ywang.cf,Emby-Proxy
-#cc
-HOST-SUFFIX,jiasu.ga,Emby-Proxy
 #misakaf
 #HOST-SUFFIX,misakaf.org,Emby-Proxy
