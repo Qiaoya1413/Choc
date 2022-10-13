@@ -1,6 +1,5 @@
 /*
-https://push.tapbots.com/tweetbot/5/verify_subscription url script-response-body https://raw.githubusercontent.com/Ssiswent/QuanX/main/tweetbot.js
-
+https://push.tapbots.com/tweetbot/5/verify_subscription url script-response-body https://raw.githubusercontent.com/Qiaoya1413/Aco/main/TB.js
 hostname=*.tapbots.com
 */
 
