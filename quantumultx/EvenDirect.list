@@ -1,7 +1,14 @@
 HOST-SUFFIX,emby.choc.live,Emby-Direct
 HOST-SUFFIX,alist.muua.in,Emby-Direct
-HOST-SUFFIX,zf.poloemby.xyz,Emby-Direct
-HOST-SUFFIX,blueseacdn.com,Emby-Direct
+#Polo
+HOST-SUFFIX,nlz.poloemby.xyz,Emby-Direct
+HOST-SUFFIX,happy.poloemby.xyz,Emby-Direct
+#CC
 HOST-SUFFIX,ccemby.tk,Emby-Direct
+#Peach
+HOST-SUFFIX,sg.embymv.tk,Emby-Direct
+HOST-SUFFIX,blueseacdn.com,Emby-Direct
+#misakaf
+HOST-SUFFIX,misakaf.org,Emby-Direct
 #其他
 HOST-SUFFIX,gov.cn,Emby-Direct
