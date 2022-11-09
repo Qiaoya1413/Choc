@@ -6,10 +6,8 @@ HOST-SUFFIX,emby.wtf,Emby-Proxy
 HOST,aaa.ax,Emby-Proxy
 #蓝海
 HOST,bsem.ddns.me,Emby-Proxy
-#lsemby
+#垃圾影音
 HOST,cf.emby.ml,Emby-Proxy
-#neko
-HOST-SUFFIX,nakoemby.com,Emby-Proxy
 #仲夏
 HOST-SUFFIX,mseic.com,Emby-Proxy
 #polo
@@ -22,7 +20,11 @@ HOST,emby.today,Emby-Proxy
 HOST,py2.embyplus.club,Emby-Proxy
 #emby
 HOST-SUFFIX,agon.cf,Emby-Proxy
+#catfish
+HOST,catfishemby.club,Emby-Proxy
 
+#neko
+HOST-SUFFIX,nakoemby.com,Emby-Proxy
 #白嫖王
 #HOST-SUFFIX,ywang.cf,Emby-Proxy
 #peach
