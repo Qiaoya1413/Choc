@@ -1,6 +1,8 @@
 #Polo
-HOST,nlz.poloemby.xyz,Emby-Direct
 HOST,happy.poloemby.xyz,Emby-Direct
+HOST,zf.poloemby.xyz,Emby-Direct
+HOST,zfsg.poloemby.xyz,Emby-Direct
+HOST,df.poloemby.xyz,Emby-Direct
 #CC
 HOST,cc.ccemby.tk,Emby-Direct
 #Peach
