@@ -10,8 +10,6 @@ HOST,bsem.ddns.me,Emby-Proxy
 HOST,cf.emby.ml,Emby-Proxy
 #仲夏
 HOST-SUFFIX,mseic.com,Emby-Proxy
-#polo
-HOST,cu.poloemby.xyz,Emby-Proxy
 #orange
 HOST,embytv.cf,Emby-Proxy
 #today
@@ -33,3 +31,5 @@ HOST-SUFFIX,nakoemby.com,Emby-Proxy
 #HOST-SUFFIX,4545.cf,Emby-Proxy
 #404
 #HOST-SUFFIX,404.sb,Emby-Proxy
+#polo
+#HOST,df.poloemby.xyz,Emby-Proxy
