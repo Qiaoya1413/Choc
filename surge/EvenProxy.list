@@ -10,8 +10,6 @@ DOMAIN,bsem.ddns.me,Emby-Proxy
 DOMAIN,cf.emby.ml,Emby-Proxy
 #仲夏
 DOMAIN-SUFFIX,mseic.com,Emby-Proxy
-#polo
-DOMAIN,cu.poloemby.xyz,Emby-Proxy
 #orange
 DOMAIN,embytv.cf,Emby-Proxy
 #today
@@ -33,3 +31,5 @@ DOMAIN-SUFFIX,nakoemby.com,Emby-Proxy
 #DOMAIN-SUFFIX,4545.cf,Emby-Proxy
 #404
 #DOMAIN-SUFFIX,404.sb,Emby-Proxy
+#polo
+#DOMAIN,df.poloemby.xyz,Emby-Proxy
