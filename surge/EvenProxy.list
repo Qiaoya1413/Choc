@@ -20,6 +20,8 @@ DOMAIN,py2.embyplus.club,Emby-Proxy
 DOMAIN-SUFFIX,agon.cf,Emby-Proxy
 #catfish
 DOMAIN,catfishemby.club,Emby-Proxy
+#polo
+DOMAIN,df.poloemby.xyz,Emby-Proxy
 
 #neko
 DOMAIN-SUFFIX,nakoemby.com,Emby-Proxy
@@ -31,5 +33,3 @@ DOMAIN-SUFFIX,nakoemby.com,Emby-Proxy
 #DOMAIN-SUFFIX,4545.cf,Emby-Proxy
 #404
 #DOMAIN-SUFFIX,404.sb,Emby-Proxy
-#polo
-#DOMAIN,df.poloemby.xyz,Emby-Proxy
