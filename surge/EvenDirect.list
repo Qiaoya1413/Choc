@@ -1,8 +1,7 @@
 #Polo
 DOMAIN,happy.poloemby.xyz,Emby-Direct
-DOMAIN,zf.poloemby.xyz,Emby-Direct
-DOMAIN,zfsg.poloemby.xyz,Emby-Direct
-DOMAIN,df.poloemby.xyz,Emby-Direct
+DOMAIN,cu.poloemby.xyz,Emby-Direct
+#DOMAIN,df.poloemby.xyz,Emby-Direct
 #CC
 DOMAIN,cc.ccemby.tk,Emby-Direct
 #Peach
@@ -12,6 +11,3 @@ DOMAIN,blueseacdn.com,Emby-Direct
 DOMAIN-SUFFIX,misakaf.org,Emby-Direct
 #orange
 DOMAIN,embytv.cf,Emby-Direct
-
-#其他
-DOMAIN-SUFFIX,gov.cn,Emby-Direct
