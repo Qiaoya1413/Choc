@@ -20,6 +20,8 @@ HOST,py2.embyplus.club,Emby-Proxy
 HOST-SUFFIX,agon.cf,Emby-Proxy
 #catfish
 HOST,catfishemby.club,Emby-Proxy
+#polo
+HOST,df.poloemby.xyz,Emby-Proxy
 
 #neko
 HOST-SUFFIX,nakoemby.com,Emby-Proxy
@@ -31,5 +33,4 @@ HOST-SUFFIX,nakoemby.com,Emby-Proxy
 #HOST-SUFFIX,4545.cf,Emby-Proxy
 #404
 #HOST-SUFFIX,404.sb,Emby-Proxy
-#polo
-#HOST,df.poloemby.xyz,Emby-Proxy
+
