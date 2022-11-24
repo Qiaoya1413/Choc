@@ -1,8 +1,7 @@
 #Polo
 HOST,happy.poloemby.xyz,Emby-Direct
-HOST,zf.poloemby.xyz,Emby-Direct
-HOST,zfsg.poloemby.xyz,Emby-Direct
-HOST,df.poloemby.xyz,Emby-Direct
+HOST,cu.poloemby.xyz,Emby-Direct
+#HOST,df.poloemby.xyz,Emby-Direct
 #CC
 HOST,cc.ccemby.tk,Emby-Direct
 #Peach
@@ -12,6 +11,5 @@ HOST,blueseacdn.com,Emby-Direct
 HOST-SUFFIX,misakaf.org,Emby-Direct
 
 #其他
-HOST-SUFFIX,gov.cn,Emby-Direct
-HOST,emby.choc.live,Emby-Direct
-HOST,alist.muua.in,Emby-Direct
+HOST-SUFFIX,choc.live,Emby-Direct
+HOST-SUFFIX,muua.in,Emby-Direct
