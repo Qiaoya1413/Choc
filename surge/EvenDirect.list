@@ -5,8 +5,7 @@ DOMAIN,cu.poloemby.xyz,Emby-Direct
 #CC
 DOMAIN,cc.ccemby.tk,Emby-Direct
 #Peach
-DOMAIN,hk.embymv.tk,Emby-Direct
-DOMAIN,blueseacdn.com,Emby-Direct
+DOMAIN-SUFFIX,embymv.tk,Emby-Direct
 #misakaf
 DOMAIN-SUFFIX,misakaf.org,Emby-Direct
 #orange
