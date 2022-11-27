@@ -22,9 +22,11 @@ DOMAIN-SUFFIX,agon.cf,Emby-Proxy
 DOMAIN,catfishemby.club,Emby-Proxy
 #polo
 DOMAIN,df.poloemby.xyz,Emby-Proxy
+#infinity
+DOMAIN,df.infinityfly.top,Emby-Proxy
 
 #neko
-DOMAIN-SUFFIX,nakoemby.com,Emby-Proxy
+#DOMAIN-SUFFIX,nakoemby.com,Emby-Proxy
 #白嫖王
 #DOMAIN-SUFFIX,ywang.cf,Emby-Proxy
 #peach
