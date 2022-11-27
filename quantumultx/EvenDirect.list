@@ -5,8 +5,7 @@ HOST,cu.poloemby.xyz,Emby-Direct
 #CC
 HOST,cc.ccemby.tk,Emby-Direct
 #Peach
-HOST,hk.embymv.tk,Emby-Direct
-HOST,blueseacdn.com,Emby-Direct
+HOST-SUFFIX,embymv.tk,Emby-Direct
 #misakaf
 HOST-SUFFIX,misakaf.org,Emby-Direct
 
