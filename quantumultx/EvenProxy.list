@@ -22,9 +22,11 @@ HOST-SUFFIX,agon.cf,Emby-Proxy
 HOST,catfishemby.club,Emby-Proxy
 #polo
 HOST,df.poloemby.xyz,Emby-Proxy
+#infinity
+HOST,infinityfly.top,Emby-Proxy
 
 #neko
-HOST-SUFFIX,nakoemby.com,Emby-Proxy
+#HOST-SUFFIX,nakoemby.com,Emby-Proxy
 #白嫖王
 #HOST-SUFFIX,ywang.cf,Emby-Proxy
 #peach
