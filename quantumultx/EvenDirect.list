@@ -15,3 +15,5 @@ HOST,cf.emby.ml,Emby-Direct
 HOST,cf.mseic.com,Emby-Direct
 #卷毛鼠
 HOST,cf.jmsooo.com,Emby-Direct
+#GFW
+HOST,us-s3.gfwemby.org,Emby-Direct
