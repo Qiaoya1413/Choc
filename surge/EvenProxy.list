@@ -4,8 +4,6 @@ DOMAIN-SUFFIX,emby.wtf,Emby-Proxy
 DOMAIN,misty.ltd,Emby-Proxy
 #蓝海
 DOMAIN,bsem.ddns.me,Emby-Proxy
-#垃圾影音
-#DOMAIN,cf.emby.ml,Emby-Proxy
 #orange
 DOMAIN,embytv.cf,Emby-Proxy
 #today
@@ -24,3 +22,5 @@ DOMAIN,infinityfly.top,Emby-Proxy
 #DOMAIN-SUFFIX,jmsooo.com,Emby-Proxy
 #仲夏
 #DOMAIN-SUFFIX,mseic.com,Emby-Proxy
+#垃圾影音
+#DOMAIN,cf.emby.ml,Emby-Proxy
