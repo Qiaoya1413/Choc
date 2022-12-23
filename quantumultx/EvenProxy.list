@@ -1,15 +1,9 @@
-#卷毛鼠
-#HOST-SUFFIX,jmsooo.com,Emby-Proxy
 #终点站
 HOST-SUFFIX,emby.wtf,Emby-Proxy
 #Misty
 HOST,misty.ltd,Emby-Proxy
 #蓝海
 HOST,bsem.ddns.me,Emby-Proxy
-#垃圾影音
-#HOST,cf.emby.ml,Emby-Proxy
-#仲夏
-#HOST-SUFFIX,mseic.com,Emby-Proxy
 #orange
 HOST,embytv.cf,Emby-Proxy
 #today
@@ -24,3 +18,9 @@ HOST,catfishemby.club,Emby-Proxy
 HOST,df.poloemby.xyz,Emby-Proxy
 #infinity
 HOST,infinityfly.top,Emby-Proxy
+#卷毛鼠
+#HOST-SUFFIX,jmsooo.com,Emby-Proxy
+#仲夏
+#HOST-SUFFIX,mseic.com,Emby-Proxy
+#垃圾影音
+#HOST,cf.emby.ml,Emby-Proxy
