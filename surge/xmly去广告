@@ -1,4 +1,3 @@
-[Rewrite]
 # ～ XiMaLaYa_喜马拉雅_修复轮播Ad失效Bug@ddgksf2013
 ^https?:\/\/.*\.xima.*\.com\/discovery-feed\/focus\/queryF reject
 # ～ XiMaLaYa_喜马拉雅_播放页_Live@ddgksf2013
@@ -36,16 +35,3 @@
 # ～ XiMaLaYa_喜马拉雅_屏蔽ting_Ad@ddgksf2013
 ^https?:\/\/.*\.xima.*\.com\/ting\/(loading|feed|home)? reject
 
-[Script]
-# ～ XiMaLaYa_喜马拉雅_屏蔽首页横幅_Ad@ddgksf2013
-http-response ^https?:\/\/.*\.xima.*\.com\/focus-mobile\/focusPic script-path=https://github.com/ddgksf2013/Scripts/raw/master/xmly_json.js, requires-body=true, timeout=10, tag=xmly_json
-# ～ XiMaLaYa_喜马拉雅_屏蔽首页动态_Ad@ddgksf2013
-http-response ^https?:\/\/.*\.xima.*\.com\/discovery-feed\/v\d\/mix script-path=https://github.com/ddgksf2013/Scripts/raw/master/xmly_json.js, requires-body=true, timeout=10, tag=xmly_json
-# ～ XiMaLaYa_喜马拉雅_屏蔽Tab页滚动_Ad@ddgksf2013
-http-response ^https?:\/\/.*\.xima.*\.com\/discovery-category\/v\d/category script-path=https://github.com/ddgksf2013/Scripts/raw/master/xmly_json.js, requires-body=true, timeout=10, tag=xmly_json
-# ～ XiMaLaYa_喜马拉雅_去除我的页面Ad_Tag@ddgksf2013
-http-response ^https?:\/\/.*\.xima.*\.com\/mobile-user\/v\d\/homePage script-path=https://github.com/ddgksf2013/Scripts/raw/master/xmly_json.js, requires-body=true, timeout=10, tag=xmly_json
-
-[MITM]
-
-hostname = *.xima*.*, *.xmcdn.*
