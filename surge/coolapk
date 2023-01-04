@@ -1,0 +1,7 @@
+[Script]
+
+http-response ^https?:\/\/api.coolapk.com\/v6\/(feed\/(replyList|detail)|main\/indexV8|dataList) script-path=https://github.com/ddgksf2013/Scripts/raw/master/coolapk.js, requires-body=true, timeout=10, tag=coolapk
+
+[MITM]
+
+hostname = api.coolapk.com
