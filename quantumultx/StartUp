@@ -2,6 +2,14 @@
 ^https?:\/\/api\.cloud\.189\.cn\/guns\/getOpenscreenBanners\.action url reject-dict
 #百度地图屏蔽开屏广告
 ^https?:\/\/afd\.baidu\.com url reject-dict
+# > elema
+^https?:\/\/elemecdn.com\/.+\/sitemap url reject
+^https?:\/\/fuss10.elemecdn.com\/.+\/w\/750\/h\/\d{3,4} url reject
+# > zhongguoyidongjiangsu
+^https?:\/\/wap\.js\.10086\.cn\/jsmccClient\/cd\/market_content\/api\/v\d\/market_content\.page\.query url reject
+# > MeiTuanWaiMai
+^https?:\/\/img\.meituan\.net\/(bizad|brandCpt)\/\w+\.(png|jpg) url reject
+^https?:\/\/www\.meituan\.com\/api\/v\d\/appstatus\?ad url reject
 # > jingxi
 ^https?:\/\/api\.m\.jd\.com\/api\?functionId=delivery_show url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/startup.js
 # > jingdong
@@ -12,4 +20,4 @@
 ^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=lite_advertising url response-body jdLiteAdvertisingVO response-body ddgksf2013
 ^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=lite_SmartPush url response-body pushData response-body ddgksf2013
 
-hostname = cloud.189.cn,afd.baidu.com,bdsp-x.jd.com,api.m.jd.com
+hostname = cloud.189.cn,afd.baidu.com,bdsp-x.jd.com,api.m.jd.com,fuss10.elemecdn.com,wap.js.10086.cn
