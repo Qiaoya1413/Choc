@@ -2,6 +2,21 @@
 ^https?:\/\/api\.cloud\.189\.cn\/guns\/getOpenscreenBanners\.action url reject-dict
 #百度地图屏蔽开屏广告
 ^https?:\/\/afd\.baidu\.com url reject-dict
+^https?:\/\/map-mobile-resource\.cdn\.bcebos\.com\/icon\/service\/periphery\/default\/xiyuanmobanner\.png url reject-img
+^https?:\/\/map-mobile-resource\.cdn\.bcebos\.com\/icon\/service\/periphery\/default\/iosxiuyutopbanner\.gif url reject-img
+^https?:\/\/map-mobile-resource\.cdn\.bcebos\.com\/icon\/service\/periphery\/default\/iosmeishitopbanner\.gif url reject-img
+^https?:\/\/lbsnavi\.cdn\.bcebos\.com\/base\/online\/20230106234842\/honglvdengbanner3\.png url reject-img
+^https?:\/\/lbsnavi\.cdn\.bcebos\.com\/base\/online\/20230104105841\/jiachebannerzhaolusi\.png url reject-img
+^https?:\/\/lbsnavi\.cdn\.bcebos\.com\/base\/online\/20220728105739\/keche\.png url reject-img
+^https?:\/\/map-mobile-resource\.cdn\.bcebos\.com\/icon\/service\/user-system\/default\/sytstc20211208\.png url reject-img
+^https?:\/\/map-mobile-opnimg\.cdn\.bcebos\.com\/165300ea94bc538800b0d8e539aa044d\.jpg url reject-img
+^https?:\/\/lbsnavi\.cdn\.bcebos\.com\/base\/online\/20230106234920\/honglvdeng3icon\.gif url reject-img
+^https?:\/\/zt\.baidu\.com\/activity\/v3\/info url reject-200
+^https?:\/\/map-mobile-opnimg\.cdn\.bcebos\.com\/.+\.gif url reject-img
+^https?:\/\/newclient\.map\.baidu\.com\/client\/usersystem\/mine\/page url script-response-body https://raw.githubusercontent.com/Crazy-Z7/AdGuard/main/mapad.js
+^https?:\/\/yongche\.baidu\.com\/marketing\/activity\/activitycard url reject-200
+^https?:\/\/yongche\.baidu\.com\/order\/passenger\/notice url reject-200
+^https?:\/\/newclient\.map\.baidu\.com\/yongche\/order\/yongche\/homeandcompany url reject-200
 # > 江苏移动
 ^https?:\/\/wap\.js\.10086\.cn\/jsmccClient\/cd\/market_content\/api\/v\d\/market_content\.page\.query url reject
 # > 京东
@@ -12,4 +27,4 @@
 ^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=lite_advertising url response-body jdLiteAdvertisingVO response-body ddgksf2013
 ^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=lite_SmartPush url response-body pushData response-body ddgksf2013
 
-hostname = cloud.189.cn,afd.baidu.com,bdsp-x.jd.com,api.m.jd.com,fwap.js.10086.cn
+hostname = cloud.189.cn,afd.baidu.com,bdsp-x.jd.com,api.m.jd.com,fwap.js.10086.cn,newclient.map.baidu.com,36.152.44.187,223.109.81.127,*.cdn.bcebos.com,zt.baidu.com,*.cdn.bcebos.com
