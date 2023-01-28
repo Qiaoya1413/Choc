@@ -2,7 +2,7 @@
 HOST,happy.poloemby.xyz,Emby-Direct
 HOST,cu.poloemby.xyz,Emby-Direct
 #CC
-HOST,cc.ccemby.tk,Emby-Direct
+HOST-KEYWORD,ccemby,Emby-Direct
 #Peach
 HOST-SUFFIX,embymv.tk,Emby-Direct
 #misakaf
