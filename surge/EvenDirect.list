@@ -2,7 +2,7 @@
 DOMAIN,happy.poloemby.xyz,Emby-Direct
 DOMAIN,cu.poloemby.xyz,Emby-Direct
 #CC
-DOMAIN,cc.ccemby.tk,Emby-Direct
+DOMAIN-KEYWORD,ccemby,Emby-Direct
 #Peach
 DOMAIN-SUFFIX,embymv.tk,Emby-Direct
 #misakaf
@@ -10,6 +10,8 @@ DOMAIN-SUFFIX,misakaf.org,Emby-Direct
 #lsemby
 DOMAIN,cf.emby.ml,Emby-Direct
 #仲夏
-DOMAIN,cf.mseic.com,Emby-Direct
+#DOMAIN,cf.mseic.com,Emby-Direct
 #卷毛鼠
 DOMAIN,cf.jmsooo.com,Emby-Direct
+#NMEMBY
+DOMAIN-SUFFIX,nmg.llc,Emby-Direct
