@@ -10,8 +10,8 @@ HOST-SUFFIX,misakaf.org,Emby-Direct
 #lsemby
 HOST,cf.emby.ml,Emby-Direct
 #仲夏
-HOST,cf.mseic.com,Emby-Direct
+#HOST,cf.mseic.com,Emby-Direct
 #卷毛鼠
 HOST,cf.jmsooo.com,Emby-Direct
-#GFW
-HOST,us-s3.gfwemby.org,Emby-Direct
+#NMEMBY
+HOST-SUFFIX,nmg.llc,Emby-Direct
