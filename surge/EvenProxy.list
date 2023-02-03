@@ -6,8 +6,6 @@ DOMAIN,misty.ltd,Emby-Proxy
 DOMAIN,bsem.ddns.me,Emby-Proxy
 #orange
 DOMAIN,embytv.cf,Emby-Proxy
-#today
-DOMAIN,emby.today,Emby-Proxy
 #品云
 DOMAIN,py2.embyplus.club,Emby-Proxy
 #emby
@@ -18,9 +16,3 @@ DOMAIN,catfishemby.club,Emby-Proxy
 DOMAIN,df.poloemby.xyz,Emby-Proxy
 #infinity
 DOMAIN,infinityfly.top,Emby-Proxy
-#卷毛鼠
-#DOMAIN-SUFFIX,jmsooo.com,Emby-Proxy
-#仲夏
-#DOMAIN-SUFFIX,mseic.com,Emby-Proxy
-#垃圾影音
-#DOMAIN,cf.emby.ml,Emby-Proxy
