@@ -1,4 +1,6 @@
-DOMAIN-SUFFIX,github.com,Proxy
-DOMAIN-SUFFIX,hostloc.com,Proxy
-DOMAIN-SUFFIX,v2ex.com,Proxy
-DOMAIN,sukebei.nyaa.si,Proxy
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,hostloc.com
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN,sukebei.nyaa.si
+DOMAIN,bit.ly
+DOMAIN,gitlab.com
