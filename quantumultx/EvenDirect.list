@@ -13,7 +13,9 @@ HOST-SUFFIX,embytv.cf,Emby-Direct
 HOST-SUFFIX,misakaf.org,Emby-Direct
 #卷毛鼠
 HOST,cf.jmsooo.com,Emby-Direct
-	
+#Nebula
+HOST,direct.nebula-emby.com,Emby-Direct
+
 #CC
 HOST-KEYWORD,ccemby,Emby-Direct
 #品云
