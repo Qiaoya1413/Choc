@@ -4,7 +4,7 @@ HOST-SUFFIX,emby.wtf,Emby-Proxy
 HOST,misty.ltd,Emby-Proxy
 #蓝海
 HOST,bsem.ddns.me,Emby-Proxy
-HOST,emby-pub1.blueseacdn.com,Emby-Proxy
+HOST,bluesea.ddns.me,Emby-Proxy
 #品云
 HOST,py2.embyplus.club,Emby-Proxy
 #catfish
