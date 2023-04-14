@@ -2,7 +2,7 @@
 #NMEMBY
 HOST,film.goodisp.org,Emby-Direct
 #Polo
-HOST,cu.poloemby.xyz,Emby-Direct
+HOST,cf.poloemby.xyz,Emby-Direct
 #lsemby
 HOST,cf.emby.ml,Emby-Direct
 #emby
@@ -15,6 +15,8 @@ HOST-SUFFIX,misakaf.org,Emby-Direct
 HOST,cf.jmsooo.com,Emby-Direct
 #Nebula
 HOST,direct.nebula-emby.com,Emby-Direct
+#Paul
+HOST,cf.imetyou.top,Emby-Direct
 
 #CC
 HOST-KEYWORD,ccemby,Emby-Direct
