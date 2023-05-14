@@ -1,16 +1,10 @@
 #CF优选
-#NMEMBY
-HOST,film.goodisp.org,Emby-Direct
-#Polo
-HOST,cf.poloemby.xyz,Emby-Direct
 #lsemby
 HOST,cf.emby.ml,Emby-Direct
 #emby
 HOST-SUFFIX,emby.agon.cf,Emby-Direct
 #orange
 HOST-SUFFIX,embytv.cf,Emby-Direct
-#misakaf
-HOST-SUFFIX,misakaf.org,Emby-Direct
 #卷毛鼠
 HOST,cf.jmsooo.com,Emby-Direct
 #Nebula
