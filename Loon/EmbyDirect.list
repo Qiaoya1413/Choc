@@ -2,7 +2,7 @@
 #lsemby
 DOMAIN,cf.emby.ml
 #viper
-DOMAIN-SUFFIX,emby.agon.cf
+DOMAIN,emby.agon.cf
 #orange
 DOMAIN-SUFFIX,embytv.cf
 #卷毛鼠
@@ -11,6 +11,12 @@ DOMAIN,cf.jmsooo.com
 DOMAIN,direct.nebula-emby.com
 #Paul
 DOMAIN,cf.imetyou.top
+#星光
+DOMAIN,free.emby.eu.org
+#NMemby
+DOMAIN,film.goodisp.org
+#TreeDiagram
+DOMAIN,789.123456.al
 
 #CC
 DOMAIN-KEYWORD,ccemby
