@@ -17,6 +17,8 @@ HOST,free.emby.eu.org,Emby-Direct
 HOST,film.goodisp.org,Emby-Direct
 #TreeDiagram
 HOST,789.123456.al,Emby-Direct
+#魔法
+HOST-SUFFIX,freetz.top,Emby-Direct
 
 #CC
 HOST-KEYWORD,ccemby,Emby-Direct
