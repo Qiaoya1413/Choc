@@ -3,8 +3,6 @@
 DOMAIN,cf.emby.ml
 #viper
 DOMAIN,emby.agon.cf
-#orange
-DOMAIN-SUFFIX,embytv.cf
 #卷毛鼠
 DOMAIN,cf.jmsooo.com
 #Nebula
@@ -20,5 +18,3 @@ DOMAIN,789.123456.al
 
 #CC
 DOMAIN-KEYWORD,ccemby
-#品云
-DOMAIN,py.embyplus.club
