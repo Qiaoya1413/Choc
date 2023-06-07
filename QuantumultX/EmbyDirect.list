@@ -3,8 +3,6 @@
 HOST,cf.emby.ml,Emby-Direct
 #viper
 HOST,emby.agon.cf,Emby-Direct
-#orange
-HOST-SUFFIX,embytv.cf,Emby-Direct
 #卷毛鼠
 HOST,cf.jmsooo.com,Emby-Direct
 #Nebula
@@ -22,5 +20,3 @@ HOST-SUFFIX,freetz.top,Emby-Direct
 
 #CC
 HOST-KEYWORD,ccemby,Emby-Direct
-#品云
-HOST,py.embyplus.club,Emby-Direct
