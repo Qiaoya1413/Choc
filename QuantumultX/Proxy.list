@@ -1,0 +1,33 @@
+HOST-SUFFIX,github.com,Proxy
+HOST-SUFFIX,github.io,Proxy
+HOST-SUFFIX,gitlab.com,Proxy
+HOST-SUFFIX,bit.ly,Proxy
+
+#HOST-SUFFIX,hostloc.com,Proxy
+HOST-SUFFIX,nodeseek.com,Proxy
+HOST-SUFFIX,v2ex.com,Proxy
+HOST,yfamily.vercel.app,Proxy
+HOST,idc.wiki,Proxy
+
+HOST-SUFFIX,t66y.com,Proxy
+HOST-SUFFIX,nyaa.si,Proxy
+
+HOST-SUFFIX,m-team.cc,Proxy
+
+HOST-SUFFIX,google.com,Proxy
+
+HOST-SUFFIX,youtube.com,Proxy
+HOST-SUFFIX,gvt1.com,Proxy
+HOST-SUFFIX,youtu.be,Proxy
+HOST-SUFFIX,yt.be,Proxy
+HOST-SUFFIX,yt3.ggpht.com,Proxy
+HOST-SUFFIX,ytimg.com,Proxy
+host-suffix, googleapis.com, proxy
+host-suffix, googlevideo.com, proxy
+
+#终点站
+HOST-SUFFIX,emby.wtf,Proxy
+#剧狗
+HOST,ju.dog,Proxy
+#梁山
+HOST,emby.shuipo.lol,Proxy

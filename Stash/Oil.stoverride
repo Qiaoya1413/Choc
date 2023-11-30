@@ -1,0 +1,10 @@
+name: 每日油价
+desc: 每日油价
+tiles:
+  - name: youjia
+    icon: 'car'
+    backgroundColor: '#c932a9'
+    argument: 'provname=江苏'
+script-providers:
+  youjia:
+    url: https://raw.githubusercontent.com/deezertidal/Surge_Module/master/files/oil.js
