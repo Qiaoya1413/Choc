@@ -27,7 +27,3 @@ host-suffix, googlevideo.com, proxy
 
 #终点站
 HOST-SUFFIX,emby.wtf,Proxy
-#剧狗
-HOST,ju.dog,Proxy
-#梁山
-HOST,emby.shuipo.lol,Proxy
