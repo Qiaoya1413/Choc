@@ -1,7 +1,5 @@
 #lsemby
 HOST-SUFFIX,xmsl.org,Emby
-#Orange
-HOST-SUFFIX,otv.icu,Emby
 
 #卷毛鼠
 HOST,cf.jmsooo.com,Emby
@@ -25,4 +23,4 @@ HOST,embymv.tk,Emby
 IP-CIDR,193.123.232.141/32,Emby
 
 #自建
-HOST,in.muua.in,Emby
+HOST,ouuo.me,Emby
