@@ -27,14 +27,22 @@ host-suffix, googlevideo.com, proxy
 
 #终点站
 HOST-SUFFIX,emby.wtf,Proxy
+
 #卷毛鼠
 HOST,cf.jmsooo.com,Proxy
 HOST-SUFFIX,emby.pro,Proxy
+
 #星光
 HOST,free.emby.eu.org,Proxy
+
 #TreeDiagram
 HOST,789.123456.al,Proxy
+
 #魔法
 HOST,cf.freetz.top,Proxy
+
 #私人影院
 HOST,emby.agon.cf,Proxy
+
+#Paul
+HOST,cf.imetyou.top,Proxy
