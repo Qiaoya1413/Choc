@@ -172,6 +172,7 @@ HOST, babel-statistics-android.d.meituan.net, REJECT
 HOST, maplocatesdksnapshot.d.meituan.net, REJECT
 HOST, metrics-picture.d.meituan.net, REJECT
 HOST, route-stats.d.meituan.net, REJECT
+HOST, open.kuaishouzt.com, REJECT
 
 # >>>>>>>>>>>>>>> ✅ N ✅ <<<<<<<<<<<<<<
 
