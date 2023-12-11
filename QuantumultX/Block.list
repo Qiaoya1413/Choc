@@ -98,13 +98,16 @@ HOST-KEYWORD, safebrowsing., REJECT
 # 百度
 HOST, mobads.baidu.com, REJECT
 HOST-SUFFIX, pos.baidu.com, REJECT
+
 # 百度地图
 HOST, afd.baidu.com, REJECT
 HOST, afdconf.baidu.com, REJECT
 HOST, httpdns.baidubce.com, REJECT
 HOST, lc.map.baidu.com, REJECT
+
 # 百度贴吧
-IP-CIDR, 180.76.76.200/32, REJECT
+#IP-CIDR, 180.76.76.200/32, REJECT
+
 # 哔哩哔哩
 HOST, mall.bilibili.com, REJECT
 HOST, passport.bilibili.com, REJECT
@@ -152,6 +155,7 @@ host, business.msstatic.com, reject
 HOST, dns.jd.com, REJECT
 IP-CIDR, 101.124.19.122/32, REJECT
 IP6-CIDR, 2402:db40:5100:1011::5/128, REJECT
+
 # 建设银行
 HOST-KEYWORD, adv.ccb.com, REJECT
 
@@ -185,17 +189,17 @@ HOST, open.kuaishouzt.com, REJECT
 
 # >>>>>>>>>>>>>>> ✅ Q ✅ <<<<<<<<<<<<<<
 # > QQ音乐广告
-host, tmeadcomm.y.qq.com, reject
-host, ad.tencentmusic.com, reject
-host, adstats.tencentmusic.com, reject
-host, tmead.y.qq.com, reject
-host-suffix, rqd.qq.com, reject
-host-suffix, wup.imtt.qq.com, reject
-host-suffix, gdt.qq.com, reject
-host-suffix, android.rqd.qq.com, reject
-host-suffix, e.qq.com, reject
-host-suffix, beacon.qq.com, reject
-host-suffix, v.gdt.qq.com, reject
+#host, tmeadcomm.y.qq.com, reject
+#host, ad.tencentmusic.com, reject
+#host, adstats.tencentmusic.com, reject
+#host, tmead.y.qq.com, reject
+#host-suffix, rqd.qq.com, reject
+#host-suffix, wup.imtt.qq.com, reject
+#host-suffix, gdt.qq.com, reject
+#host-suffix, android.rqd.qq.com, reject
+#host-suffix, e.qq.com, reject
+#host-suffix, beacon.qq.com, reject
+#host-suffix, v.gdt.qq.com, reject
 
 
 # >>>>>>>>>>>>>>> ✅ R ✅ <<<<<<<<<<<<<<
@@ -259,10 +263,6 @@ HOST-KEYWORD, trace.qq.com, REJECT
 HOST-KEYWORD, trace.video.qq.com, REJECT
 IP-CIDR, 47.110.187.87/32, REJECT
 
-# > 迅雷
-host, adsp.xunlei.com, reject
-host, etl.xlmc.sandai.net, reject
-
 
 # >>>>>>>>>>>>>>> ✅ U ✅ <<<<<<<<<<<<<<
 
@@ -272,7 +272,7 @@ host, etl.xlmc.sandai.net, reject
 
 # >>>>>>>>>>>>>>> ✅ W ✅ <<<<<<<<<<<<<<
 # > 万能钥匙专业版
-host-suffix, mi.gdt.qq.com, reject
+#host-suffix, mi.gdt.qq.com, reject
 
 # 网易云音乐
 HOST, httpdns.music.163.com, REJECT
@@ -282,28 +282,29 @@ HOST, iadmatapk.nosdn.127.net, REJECT
 HOST, iadmusicmat.music.126.net, REJECT
 HOST, iadmusicmatvideo.music.126.net, REJECT
 HOST-SUFFIX, 163jiasu.com, REJECT
+
 # 微博 开屏广告
 HOST-SUFFIX, biz.weibo.com, REJECT
 
 # > WiFi万能钥匙
-host-keyword, app.51y5.net, reject
-host-keyword, apiinit.amap.com, reject
-host-keyword, c.51y5.net, reject
-host-keyword, msg.push.51y5.net, reject
-host-keyword, a.wkanx.com, reject
-host-keyword, c.wkanx.com, reject
-host-keyword, c1.wkanx.com, reject
-host-keyword, ap.51y5.net, reject
-host-keyword, dc.51y5.net, reject
-host-keyword, push-dc.51y5.net, reject
-host-keyword, news-log.51y5.net, reject
-host-keyword, login.push.51y5.net, reject
-host-keyword, news.51y5.net, reject
-host-keyword, cds.51y5.net, reject
-host-keyword, insurance.lianwifi.com, reject
-host-keyword, config.51y5.net, reject
-host-keyword, static.wkanx.com, reject
-host-keyword, config.y5en.com, reject
+#host-keyword, app.51y5.net, reject
+#host-keyword, apiinit.amap.com, reject
+#host-keyword, c.51y5.net, reject
+#host-keyword, msg.push.51y5.net, reject
+#host-keyword, a.wkanx.com, reject
+#host-keyword, c.wkanx.com, reject
+#host-keyword, c1.wkanx.com, reject
+#host-keyword, ap.51y5.net, reject
+#host-keyword, dc.51y5.net, reject
+#host-keyword, push-dc.51y5.net, reject
+#host-keyword, news-log.51y5.net, reject
+#host-keyword, login.push.51y5.net, reject
+#host-keyword, news.51y5.net, reject
+#host-keyword, cds.51y5.net, reject
+#host-keyword, insurance.lianwifi.com, reject
+#host-keyword, config.51y5.net, reject
+#host-keyword, static.wkanx.com, reject
+#host-keyword, config.y5en.com, reject
 
 
 # >>>>>>>>>>>>>>> ✅ X ✅ <<<<<<<<<<<<<<
@@ -332,13 +333,6 @@ host, t-ads.xiaohongshu.com, reject
 
 # > 小米
 HOST, sdkconfig.ad.xiaomi.com, REJECT
-
-# > 新浪
-host-suffix, beacon.sina.com.cn, reject
-host, u1.img.mobile.sina.cn, reject
-host, sax.sina.com.cn, reject
-host, saxs.sina.com.cn, reject
-host, saxn.sina.com.cn, reject
 
 
 # >>>>>>>>>>>>>>> ✅ Y ✅ <<<<<<<<<<<<<<
