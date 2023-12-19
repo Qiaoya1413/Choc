@@ -1,7 +1,7 @@
 #!name=广告拦截合集-分流
 #!desc=广告拦截合集-分流
 #!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/author/NaiSi_01.png
-#!date：2023-11-26
+#!date：2023-12-18
 #!proxy-select：reject
 #############################################
 # 1.2.3.4/24      /24表示网络的子网掩码长度，即前24位是网络部分，后8位是主机部分。这种表示法常用于描述特定范围内的IP地址
@@ -275,12 +275,12 @@ IP-CIDR, 47.110.187.87/32, REJECT
 #host-suffix, mi.gdt.qq.com, reject
 
 # 网易云音乐
-HOST, httpdns.music.163.com, REJECT
-HOST, httpdns.n.netease.com, REJECT
 HOST, iadmat.nosdn.127.net, REJECT
 HOST, iadmatapk.nosdn.127.net, REJECT
 HOST, iadmusicmat.music.126.net, REJECT
 HOST, iadmusicmatvideo.music.126.net, REJECT
+HOST, ipv4.music.163.com, REJECT
+HOST, ipv6.music.163.com, REJECT
 HOST-SUFFIX, 163jiasu.com, REJECT
 
 # 微博 开屏广告
