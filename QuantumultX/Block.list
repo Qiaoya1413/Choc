@@ -110,7 +110,7 @@ HOST, lc.map.baidu.com, REJECT
 
 # 哔哩哔哩
 HOST, mall.bilibili.com, REJECT
-HOST, passport.bilibili.com, REJECT
+#HOST, passport.bilibili.com, REJECT
 
 
 # >>>>>>>>>>>>>>> ✅ C ✅ <<<<<<<<<<<<<<
