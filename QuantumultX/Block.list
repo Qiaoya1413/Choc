@@ -121,6 +121,8 @@ HOST, mall.bilibili.com, REJECT
 host-keyword, bds.snssdk.com, reject
 host-keyword, p3.pstatp.com, reject
 
+# > 滴滴
+host-k, gwp.xiaojukeji.com, reject
 
 # >>>>>>>>>>>>>>> ✅ E ✅ <<<<<<<<<<<<<<
 
