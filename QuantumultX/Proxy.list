@@ -2,6 +2,7 @@ HOST-SUFFIX,github.com,Proxy
 HOST-SUFFIX,github.io,Proxy
 HOST-SUFFIX,gitlab.com,Proxy
 HOST-SUFFIX,bit.ly,Proxy
+HOST,sub.xf.free.hr,Proxy
 
 #HOST-SUFFIX,hostloc.com,Proxy
 HOST-SUFFIX,nodeseek.com,Proxy
