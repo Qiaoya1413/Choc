@@ -26,7 +26,6 @@ hostname = interface*.music.163.com
 
 */
 
-
 let header = $request.headers;
 const isQuanX = typeof $task !== "undefined";
 
