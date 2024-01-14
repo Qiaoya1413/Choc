@@ -26,27 +26,25 @@ HOST-SUFFIX,ytimg.com,Proxy
 host-suffix, googleapis.com, proxy
 host-suffix, googlevideo.com, proxy
 
+HOST-SUFFIX,twitter.com,Proxy
+HOST,pbs.twimg.com,Proxy
+
 #终点站
 HOST-SUFFIX,emby.wtf,Proxy
-
 #卷毛鼠
 HOST,cf.jmsooo.com,Proxy
 HOST-SUFFIX,emby.pro,Proxy
-
-#星光
-HOST,free.emby.eu.org,Proxy
-
+#Paul
+HOST,cf.imetyou.top,Proxy
 #TreeDiagram
 HOST,789.123456.al,Proxy
 
+#星光
+#HOST,free.emby.eu.org,Proxy
 #魔法
-HOST,cf.freetz.top,Proxy
-
+#HOST,cf.freetz.top,Proxy
 #私人影院
-HOST,emby.agon.cf,Proxy
-
+#HOST,emby.agon.cf,Proxy
 #Lend
-HOST,emby.lcloud.wiki,Proxy
+#HOST,emby.lcloud.wiki,Proxy
 
-#Paul
-HOST,cf.imetyou.top,Proxy
