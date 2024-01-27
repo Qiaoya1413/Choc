@@ -8,18 +8,17 @@
 
 #>>>>>>>>>>>>>>>✅#✅<<<<<<<<<<<<<<
 #广告联盟
-HOST,ad.zijieapi.com,REJECT
-HOST,i.snssdk.com,REJECT
-HOST,is.snssdk.com,REJECT
-HOST,open.e.kuaishou.com,REJECT
-HOST-SUFFIX,miaozhen.com,REJECT
-HOST-KEYWORD,-ad-sign.byteimg.com,REJECT
-HOST-KEYWORD,-tos.pstatp.com,REJECT
-HOST-KEYWORD,asiad.byteactivity,REJECT
-HOST-KEYWORD,pangolin-sdk-toutiao,REJECT
-HOST-KEYWORD,pangolin.snssdk.com,REJECT
-HOST-KEYWORD,pglstatp-toutiao,REJECT
-HOST-KEYWORD,video-cn.snssdk.com,REJECT
+HOST, ad.zijieapi.com, REJECT
+HOST, i.snssdk.com, REJECT
+HOST, is.snssdk.com, REJECT
+HOST, open.e.kuaishou.com, REJECT
+HOST-SUFFIX, miaozhen.com, REJECT
+HOST-KEYWORD, -ad-sign.byteimg.com, REJECT
+HOST-KEYWORD, asiad.byteactivity, REJECT
+HOST-KEYWORD, pangolin-sdk-toutiao, REJECT
+HOST-KEYWORD, pangolin.snssdk.com, REJECT
+HOST-KEYWORD, pglstatp-toutiao, REJECT
+HOST-KEYWORD, video-cn.snssdk.com, REJECT
 
 
 #>>>>>>>>>>>>>>>✅0✅<<<<<<<<<<<<<<
@@ -170,12 +169,12 @@ HOST,statics.woozooo.com,REJECT
 
 #>>>>>>>>>>>>>>>✅M✅<<<<<<<<<<<<<<
 #>美团
-HOST,al-log.d.meituan.net,REJECT
-HOST,babel-statistics-android.d.meituan.net,REJECT
-HOST,maplocatesdksnapshot.d.meituan.net,REJECT
-HOST,metrics-picture.d.meituan.net,REJECT
-HOST,route-stats.d.meituan.net,REJECT
-HOST,open.kuaishouzt.com,REJECT
+HOST, al-log.d.meituan.net, REJECT
+HOST, babel-statistics-android.d.meituan.net, REJECT
+HOST, maplocatesdksnapshot.d.meituan.net, REJECT
+HOST, metrics-picture.d.meituan.net, REJECT
+HOST, open.kuaishouzt.com, REJECT
+HOST, route-stats.d.meituan.net, REJECT
 
 #>>>>>>>>>>>>>>>✅N✅<<<<<<<<<<<<<<
 
@@ -247,20 +246,21 @@ host-suffix,m-adash.m.taobao.com,reject
 host-suffix,adashbc.m.taobao.com,reject
 
 #>腾讯
-HOST,adsmind.gdtimg.com,REJECT
-HOST,info4.video.qq.com,REJECT
-HOST,info6.video.qq.com,REJECT
-HOST,ios.video.mpush.qq.com,REJECT
-HOST,otheve.beacon.qq.com,REJECT
-HOST,pgdt.gtimg.cn,REJECT
-HOST,tpns.qq.com,REJECT
-;HOST,vv.video.qq.com,REJECT
-HOST,vv6.video.qq.com,REJECT
-HOST-SUFFIX,gdt.qq.com,REJECT
-HOST-SUFFIX,l.qq.com,REJECT
-HOST-KEYWORD,trace.qq.com,REJECT
-HOST-KEYWORD,trace.video.qq.com,REJECT
-IP-CIDR,47.110.187.87/32,REJECT
+HOST, adsmind.gdtimg.com, REJECT
+HOST, info4.video.qq.com, REJECT
+HOST, info6.video.qq.com, REJECT
+HOST, ios.video.mpush.qq.com, REJECT
+HOST, otheve.beacon.qq.com, REJECT
+HOST, pgdt.gtimg.cn, REJECT
+HOST, tmead.y.qq.com, REJECT
+HOST, tmeadbak.y.qq.com, REJECT
+HOST, tmeadcomm.y.qq.com, REJECT
+HOST, tpns.qq.com, REJECT
+HOST-SUFFIX, gdt.qq.com, REJECT
+HOST-SUFFIX, l.qq.com, REJECT
+HOST-KEYWORD, trace.qq.com, REJECT
+HOST-KEYWORD, trace.video.qq.com, REJECT
+IP-CIDR, 47.110.187.87/32, REJECT
 
 
 #>>>>>>>>>>>>>>>✅U✅<<<<<<<<<<<<<<
@@ -274,13 +274,13 @@ IP-CIDR,47.110.187.87/32,REJECT
 #host-suffix,mi.gdt.qq.com,reject
 
 #网易云音乐
-HOST,iadmat.nosdn.127.net,REJECT
-HOST,iadmatapk.nosdn.127.net,REJECT
-HOST,iadmusicmat.music.126.net,REJECT
-HOST,iadmusicmatvideo.music.126.net,REJECT
-HOST,ipv4.music.163.com,REJECT
-HOST,ipv6.music.163.com,REJECT
-HOST-SUFFIX,163jiasu.com,REJECT
+HOST, iadmat.nosdn.127.net, REJECT
+HOST, iadmatapk.nosdn.127.net, REJECT
+HOST, iadmusicmat.music.126.net, REJECT
+HOST, iadmusicmatvideo.music.126.net, REJECT
+HOST, ipv4.music.163.com, REJECT
+HOST, ipv6.music.163.com, REJECT
+HOST-SUFFIX, 163jiasu.com, REJECT
 
 #微博开屏广告
 HOST-SUFFIX,biz.weibo.com,REJECT
@@ -352,9 +352,6 @@ HOST,zxid-m.mobileservice.cn,REJECT
 IP-CIDR,103.41.167.237/32,REJECT
 IP-CIDR,118.89.204.198/32,REJECT
 IP6-CIDR,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,REJECT
-
-#>中国移动
-IP-CIDR,120.240.95.37/32,reject
 
 #>中国联通
 host-suffix,m1.ad.10010.com,reject
