@@ -1,5 +1,5 @@
 #CC
-HOST,cc.ccemby.tk,Emby
+HOST-KEYWORD,ccemby,Emby
 HOST-SUFFIX,carryz.net,Emby
 IP-CIDR,193.122.113.94/32,Emby
 
@@ -7,14 +7,14 @@ IP-CIDR,193.122.113.94/32,Emby
 HOST-SUFFIX,xmsl.org,Emby
 
 #Peach
-HOST,embymv.tk,Emby
+HOST,peachmv.me,Emby
 IP-CIDR,193.123.232.141/32,Emby
 
 #自建
 HOST,ouuo.me,Emby
 
-MisakaF
+#MisakaF
 HOST-SUFFIX,misakaf.org,Emby
 
-HXD
+#HXD
 HOST-SUFFIX,bili.rip,Emby
