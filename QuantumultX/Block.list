@@ -124,7 +124,13 @@ host,gwp.xiaojukeji.com,reject
 
 
 #>>>>>>>>>>>>>>>✅F✅<<<<<<<<<<<<<<
-
+#>番茄小说
+host-suffix, snssdk.com, reject
+host, p3-ad-sign.byteimg.com, reject
+host, v9-default.365yg.com, reject
+host, p9-ad-sign.byteimg.com, reject
+host, ad-sign.byteimg.com, reject
+host, p6-ad-sign.byteimg.com, reject
 
 #>>>>>>>>>>>>>>>✅G✅<<<<<<<<<<<<<<
 #>谷歌
