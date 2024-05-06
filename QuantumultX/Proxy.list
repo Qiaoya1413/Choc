@@ -28,9 +28,9 @@ host-suffix, googlevideo.com, proxy
 
 HOST-SUFFIX,twitter.com,Proxy
 HOST,pbs.twimg.com,Proxy
+#其他
+host, www.leijing1.com, Proxy
 
-#终点站
-HOST-SUFFIX,emby.wtf,Proxy
 #卷毛鼠
 HOST,cf.jmsooo.com,Proxy
 HOST-SUFFIX,emby.pro,Proxy
@@ -40,7 +40,11 @@ HOST,cf.imetyou.top,Proxy
 HOST,789.123456.al,Proxy
 #尘烬
 HOST,free.emby.eu.org,Proxy
+#野兽餐厅
+HOST,emby-us-v4.mius.uk,Proxy
+#Temby
+HOST,temby.285286.xyz,Proxy
+#Lyre
+HOST,cdn.lyrebirdemby.com,Proxy
 
-#魔法
-#HOST,cf.freetz.top,Proxy
 
