@@ -1,8 +1,3 @@
-#CC
-HOST-KEYWORD,ccemby,Emby
-HOST-SUFFIX,carryz.net,Emby
-IP-CIDR,193.122.113.94/32,Emby
-
 #lsemby
 HOST-SUFFIX,xmsl.org,Emby
 
