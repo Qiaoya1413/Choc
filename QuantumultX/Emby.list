@@ -6,10 +6,10 @@ HOST,peachmv.me,Emby
 IP-CIDR,193.123.232.141/32,Emby
 
 #自建
-HOST,ouuo.me,Emby
+HOST-SUFFIX,ouuo.me,Emby
 
 #MisakaF
-HOST-SUFFIX,misakaf.org,Emby
+#HOST-SUFFIX,misakaf.org,Emby
 
 #HXD
-HOST-SUFFIX,bili.rip,Emby
+#HOST-SUFFIX,bili.rip,Emby
