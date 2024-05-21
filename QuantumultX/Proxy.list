@@ -50,3 +50,7 @@ HOST,cdn.lyrebirdemby.com,Proxy
 HOST,7777777.buzz,Proxy
 #MF
 HOST-SUFFIX,misakaf.org,Proxy
+#Peach
+HOST,peachmv.me,Proxy
+IP-CIDR,193.123.232.141/32,Proxy
+
