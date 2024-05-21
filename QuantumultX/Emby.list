@@ -1,15 +1,5 @@
 #lsemby
 HOST-SUFFIX,xmsl.org,Emby
 
-#Peach
-HOST,peachmv.me,Emby
-IP-CIDR,193.123.232.141/32,Emby
-
 #自建
 HOST-SUFFIX,ouuo.me,Emby
-
-#MisakaF
-#HOST-SUFFIX,misakaf.org,Emby
-
-#HXD
-#HOST-SUFFIX,bili.rip,Emby
