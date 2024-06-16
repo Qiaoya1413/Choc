@@ -1,0 +1,33 @@
+#推送服务
+DOMAIN-SUFFIX, push.apple.com //推送通知
+DOMAIN, identity.apple.com //APNs 证书请求门户
+IP-CIDR, 17.249.0.0/16, no-resolve
+IP-CIDR, 17.252.0.0/16, no-resolve
+IP-CIDR, 17.57.144.0/22, no-resolve
+IP-CIDR, 17.188.128.0/18, no-resolve
+IP-CIDR, 17.188.20.0/23, no-resolve
+IP-CIDR6, 2620:149:a44::/48, no-resolve
+IP-CIDR6, 2403:300:a42::/48, no-resolve
+IP-CIDR6, 2403:300:a51::/48, no-resolve
+IP-CIDR6, 2a01:b740:a42::/48, no-resolve
+
+#账号服务
+DOMAIN, appleid.apple.com //“设置”和“系统偏好设置”中的 Apple ID 认证
+DOMAIN, appleid.cdn-apple.com //“设置”和“系统偏好设置”中的 Apple ID 认证
+DOMAIN, idmsa.apple.com //Apple ID 认证
+DOMAIN, gsa.apple.com //Apple ID 认证
+
+#苹果商店
+DOMAIN-SUFFIX, itunes.apple.com //商店内容，如 App、图书和音乐
+DOMAIN-SUFFIX, apps.apple.com //商店内容，如 App、图书和音乐
+DOMAIN-SUFFIX, mzstatic.com //商店内容，如 App、图书和音乐
+DOMAIN, itunes.apple.com
+DOMAIN, ppq.apple.com //企业 App 验证
+
+#iCloud
+DOMAIN-SUFFIX, apzones.com // 中国大陆的 iCloud 服务
+DOMAIN-SUFFIX, icloud.com.cn // 中国大陆的 iCloud 服务
+DOMAIN-SUFFIX, icloud.com
+
+#兜底策略
+DOMAIN-SUFFIX, apple.com
