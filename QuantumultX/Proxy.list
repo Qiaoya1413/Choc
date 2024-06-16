@@ -16,6 +16,7 @@ HOST-SUFFIX,nyaa.si,Proxy
 HOST-SUFFIX,m-team.cc,Proxy
 
 HOST-SUFFIX,google.com,Proxy
+HOST-SUFFIX,gmail.com,Proxy
 
 HOST-SUFFIX,youtube.com,Proxy
 HOST-SUFFIX,gvt1.com,Proxy
