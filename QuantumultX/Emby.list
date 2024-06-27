@@ -1,5 +1,15 @@
-#lsemby
-HOST-SUFFIX,xmsl.org,Emby
-
 #自建
 HOST-SUFFIX,ouuo.me,Emby
+
+#lsemby 国内中转
+HOST-SUFFIX,xmsl.org,Emby
+
+#飞跃地平线  首尔oracle
+HOST-SUFFIX,1110111.top,Emby
+
+#DVFILM 首尔oracle
+HOST,su.viclub.top,Emby
+
+#Peach 首尔oracle
+HOST,peachmv.me,Emby
+IP-CIDR,193.123.232.141/32,Emby
