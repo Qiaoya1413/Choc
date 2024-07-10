@@ -11,5 +11,5 @@ HOST-SUFFIX,1110111.top,Emby
 HOST,su.viclub.top,Emby
 
 #Peach 首尔oracle
-HOST,peachmv.me,Emby
-IP-CIDR,193.123.232.141/32,Emby
+#HOST,peachmv.me,Emby
+#IP-CIDR,193.123.232.141/32,Emby
