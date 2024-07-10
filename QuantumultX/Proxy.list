@@ -56,10 +56,11 @@ HOST-SUFFIX,misakaf.org,Proxy
 HOST-SUFFIX,reddust.link,Proxy
 #天南小筑
 HOST,emby.tnx.one,Proxy
-
 #Peach
-#HOST,peachmv.me,Proxy
-#IP-CIDR,193.123.232.141/32,Proxy
+HOST,peachmv.me,Proxy
+IP-CIDR,193.123.232.141/32,Proxy
+IP-CIDR,168.138.45.100/32,Proxy
+
 #DVfilm
 #HOST,su.viclub.top,Proxy
 
