@@ -52,14 +52,17 @@ HOST,7777777.buzz,Proxy
 HOST,581658.best,Proxy
 #MF
 HOST-SUFFIX,misakaf.org,Proxy
-#江湖
-HOST-SUFFIX,reddust.link,Proxy
 #天南小筑
 HOST,emby.tnx.one,Proxy
 #Peach
 HOST,peachmv.me,Proxy
 IP-CIDR,193.123.232.141/32,Proxy
 IP-CIDR,168.138.45.100/32,Proxy
+#ccemby
+HOST-SUFFIX,coemn.com,Proxy
+HOST-SUFFIX,carryz.net,Proxy
+#卡戎
+HOST-SUFFIX,charontv.com,Proxy
 
 #DVfilm
 #HOST,su.viclub.top,Proxy
