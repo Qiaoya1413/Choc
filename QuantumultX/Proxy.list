@@ -63,9 +63,12 @@ HOST-SUFFIX,coemn.com,Proxy
 HOST-SUFFIX,carryz.net,Proxy
 #卡戎
 HOST-SUFFIX,charontv.com,Proxy
-
+#misty
+HOST,misty.cx,Proxy
+#飞跃地平线
+HOST-SUFFIX,1110111.top,Proxy
 #DVfilm
-#HOST,su.viclub.top,Proxy
+HOST,su.viclub.top,Proxy
 
 
 
