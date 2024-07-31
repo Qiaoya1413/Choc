@@ -206,6 +206,7 @@ HOST-KEYWORD,adv.ccb.com,REJECT
 #>keep
 host,apm.gotokeep.com,reject
 host,kad.gotokeep.com,reject
+host-suffix, hc-ssp.sm.cn, reject
 
 
 #>>>>>>>>>>>>>>>✅L✅<<<<<<<<<<<<<<
